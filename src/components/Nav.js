@@ -15,7 +15,7 @@ const Nav = () => {
               <Link
                 to={item.href}
                 activeClass="active"
-                spy="true"
+                spy={true}
                 smooth={true}
                 duration={500}
                 offset={-70}
