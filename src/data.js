@@ -246,7 +246,7 @@ export const testimonials = [
     authorImg: TestiImage3,
     authorText:
       "Great work on completing that project under such a tight deadline. Your ability to prioritize tasks and work efficiently was really impressive.",
-    authorName: "Maarie Doe",
+    authorName: "Sanket Shrestha",
     authorPosition: "Service Delivery Manager, Meshed Group",
   },
 ];
