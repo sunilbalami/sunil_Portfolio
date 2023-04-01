@@ -21,10 +21,8 @@ const Portfolio = () => {
             My latest work
           </h2>
           <p className="subtitle">
-            Lorem ipsum ...... Lorem ipsum ...... Lorem ipsum ...... Lorem ipsum
-            ...... Lorem ipsum ......Lorem ipsum ...... Lorem ipsum ...... Lorem
-            ipsum ...... Lorem ipsum ...... Lorem ipsum ...... Lorem ipsum
-            ...... Lorem ipsum ......
+            Explore my work: a collection of front-end development projects
+            showcasing my skills in front end development skills and many more.
           </p>
         </div>
         <Projects />

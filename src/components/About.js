@@ -35,10 +35,12 @@ const About = () => {
               <p className="mb-4 text-accent">Web Developer </p>
               <hr className="mb-8 opacity-5" />
               <p className="mb-8">
-                I'm Front end developer with 2 years' expertise on creating
-                aesthetically pleasing and functional web apps using creativity
-                and coding. Seeking challenging role in innovative organization
-                to develop cutting-edge web solutions.
+                Hi there, I'm Sunil, a front-end developer who loves building
+                websites that look great and work well. I've been doing this for
+                more than a year now, and I specialize in using HTML, CSS,
+                JavaScript and React to create responsive, mobile-friendly
+                interfaces. When I'm not coding, I enjoy practicing meditation
+                and exploring the local art scene".
               </p>
             </div>
             <button className="btn btn-md bg-accent hover:bg-accent-hover transition-all ">

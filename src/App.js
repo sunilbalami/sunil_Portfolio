@@ -5,6 +5,8 @@ import Brands from "./components/Brands";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
+import Services from "./components/Services";
+import Testimonials from "./components/Testimonials";
 // import components
 
 const App = () => {
@@ -16,8 +18,8 @@ const App = () => {
       <About />
       <Skills />
       <Portfolio />
-
-      <div style={{ height: "2000px" }}></div>
+      <Services />
+      <Testimonials />
     </div>
   );
 };
