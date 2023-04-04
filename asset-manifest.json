@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/sunil_Portfolio/static/css/main.e0c8b42c.css",
+    "main.js": "/sunil_Portfolio/static/js/main.2545c1bc.js",
+    "static/media/sunilB.svg": "/sunil_Portfolio/static/media/sunilB.b6b049afc50073b745bb3f5059843b61.svg",
+    "static/media/mithun.svg": "/sunil_Portfolio/static/media/mithun.0cc0c6c51243ae38a63c41b598c1cb9a.svg",
+    "static/media/about.svg": "/sunil_Portfolio/static/media/about.70a8290c961c47c208b5.svg",
+    "static/media/sohal.svg": "/sunil_Portfolio/static/media/sohal.94b380465e2d73728a13b3d088782191.svg",
+    "static/media/sanket.svg": "/sunil_Portfolio/static/media/sanket.e46e88e31a85bcd22163a7659be8749f.svg",
+    "static/media/ResumeSunilBalami.docx": "/sunil_Portfolio/static/media/ResumeSunilBalami.df5ac7793f0bc01e287a.docx",
+    "static/media/sbLogo.png": "/sunil_Portfolio/static/media/sbLogo.9a54f765e376fda283eb.png",
+    "static/media/p1.webp": "/sunil_Portfolio/static/media/p1.52f0f3a89c11044c2037.webp",
+    "static/media/p5.webp": "/sunil_Portfolio/static/media/p5.40f22911cc8104bfdf42.webp",
+    "static/media/services.svg": "/sunil_Portfolio/static/media/services.2d6c88f25842315ca095.svg",
+    "static/media/portfolio.svg": "/sunil_Portfolio/static/media/portfolio.2f31f4be113e35cc3442.svg",
+    "static/media/testimonials.svg": "/sunil_Portfolio/static/media/testimonials.07294ae9606e6d7ea071.svg",
+    "static/media/p3.webp": "/sunil_Portfolio/static/media/p3.05179f007af7cd2ad2a6.webp",
+    "static/media/contact.svg": "/sunil_Portfolio/static/media/contact.ec60abf53c38c2593f7e.svg",
+    "static/media/p4.webp": "/sunil_Portfolio/static/media/p4.373ffd063f14c91c84c5.webp",
+    "static/media/p6.webp": "/sunil_Portfolio/static/media/p6.26fcf4320bfa0eacc03a.webp",
+    "static/media/p2.webp": "/sunil_Portfolio/static/media/p2.987c883e6e66df8a1228.webp",
+    "index.html": "/sunil_Portfolio/index.html",
+    "main.e0c8b42c.css.map": "/sunil_Portfolio/static/css/main.e0c8b42c.css.map",
+    "main.2545c1bc.js.map": "/sunil_Portfolio/static/js/main.2545c1bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0c8b42c.css",
+    "static/js/main.2545c1bc.js"
+  ]
+}
