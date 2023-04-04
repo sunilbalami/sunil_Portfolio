@@ -20,6 +20,7 @@ const About = () => {
             }`}
             src={AboutPic}
             alt=""
+            id="about"
           />
           <div className="flex flex-col items-center text-center lg:items-start lg:text-left ">
             <div className="flex flex-col">
@@ -43,7 +44,10 @@ const About = () => {
                 and exploring the local art scene".
               </p>
             </div>
-            <button className="btn btn-md bg-accent hover:bg-accent-hover transition-all ">
+            <button
+              className="btn btn-md bg-accent hover:bg-accent-hover transition-all mb-4"
+              onClick={() => window.open("mailto:skstha77@gmail.com")}
+            >
               Contact me
             </button>
           </div>

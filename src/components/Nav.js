@@ -1,5 +1,5 @@
 import React from "react";
-import { navigation, Navigation } from "../data";
+import { navigation } from "../data";
 import { Link } from "react-scroll";
 
 const Nav = () => {
