@@ -20,6 +20,7 @@ const About = () => {
             }`}
             src={AboutPic}
             alt=""
+            id="about"
           />
           <div className="flex flex-col items-center text-center lg:items-start lg:text-left ">
             <div className="flex flex-col">

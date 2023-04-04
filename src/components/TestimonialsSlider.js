@@ -20,12 +20,15 @@ const TestimonialsSlider = () => {
           disableOnInteraction: false,
         }}
         modules={[Autoplay, Pagination]}
-        className="mySwiper"
+        className="mySwiper transition-all"
       >
         {testimonials.map((item, index) => {
           const { authorImg, authorText, authorName, authorPosition } = item;
           return (
-            <SwiperSlide key={index}>
+            <SwiperSlide
+              key={index}
+              className="transform transition-all duration-500 ease-in-out hover:-translate-y-2"
+            >
               <div className="flex flex-col lg:flex-row gap-12 lg:gap-32">
                 <div className="w-48 h-48 lg:w-[328]">
                   <img className="rounded-2xl" src={authorImg} alt="" />

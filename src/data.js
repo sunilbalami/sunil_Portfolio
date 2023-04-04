@@ -1,6 +1,5 @@
 //  icons
 import {
-  FiYoutube,
   FiInstagram,
   FiGithub,
   FiDribbble,
@@ -10,6 +9,7 @@ import {
   FiTag,
   FiMail,
   FiMapPin,
+  FiLinkedin,
 } from "react-icons/fi";
 
 // companies icons
@@ -73,20 +73,16 @@ export const navigation = [
 // social
 export const social = [
   {
-    icon: <FiYoutube />,
-    href: "",
+    icon: <FiInstagram />,
+    href: "https://www.instagram.com/neel.jung/",
   },
   {
-    icon: <FiInstagram />,
-    href: "",
+    icon: <FiLinkedin />,
+    href: "https://www.linkedin.com/in/sunilbalami/",
   },
   {
     icon: <FiGithub />,
-    href: "",
-  },
-  {
-    icon: <FiDribbble />,
-    href: "",
+    href: "https://github.com/sunilbalami",
   },
 ];
 
@@ -257,12 +253,12 @@ export const contact = [
     icon: <FiMail />,
     title: "Have a question?",
     subtitle: "I am here to help you.",
-    description: "Email me at hello@youremail.com",
+    description: "Email me at skstha77@gmail.com",
   },
   {
     icon: <FiMapPin />,
     title: "Current Location",
-    subtitle: "Bucharest, Romania",
-    description: "Serving clients worldwide",
+    subtitle: "Sydney, Australia",
+    description: "Excited to work with amazing people",
   },
 ];

@@ -1,6 +1,7 @@
 import React from "react";
 import suniB from "../assets/img/sunilB.svg";
 import { useInView } from "react-intersection-observer";
+import Resume from "../ResumeSunilBalami.docx";
 
 const Hero = () => {
   const [ref, inView] = useInView({
@@ -33,8 +34,11 @@ const Hero = () => {
               I'm Front end developer who writes and design clean, elegent and
               efficint code.
             </p>
+
             <button className="btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all">
-              Hire me
+              <a href={Resume} download="ResumeSunilBalami.docx">
+                Download CV
+              </a>
             </button>
           </div>
           {/* right side*/}

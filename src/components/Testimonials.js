@@ -21,7 +21,7 @@ const Testimonials = () => {
           >
             What other people say
           </h2>
-          <p className="subtile"> Lorem ipsum 23</p>
+          <p className="subtitle">Industry experts says :- </p>
         </div>
         <TestimonialsSlider />
       </div>
