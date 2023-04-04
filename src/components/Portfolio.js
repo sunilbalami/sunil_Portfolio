@@ -12,7 +12,7 @@ const Portfolio = () => {
         <div className="flex flex-col items-center text-center">
           <h2
             ref={ref}
-            className={`section-title before:content-portfolio relative before:absolute before:opacity-40 before:-top-[2rem] before:-left-3.4 before:hidden before:lg:block transition-all duration-1000 ${
+            className={`section-title lg:before:content-portfolio relative before:absolute before:opacity-40 before:-top-[2rem] before:-left-28 before:hidden before:lg:block transition-all duration-1000 ${
               inView
                 ? "opacity-100 transform translate-y-0"
                 : "opacity-0 transform translate-y-10"
