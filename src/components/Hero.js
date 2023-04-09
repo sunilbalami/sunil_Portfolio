@@ -31,7 +31,7 @@ const Hero = () => {
               I'm Front-End Developer
             </h1>
             <p className="pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left   ">
-              I'm Front end developer who writes and design clean, elegant and
+              I'm a Front-end developer who writes and design clean, elegant and
               efficient code.
             </p>
 

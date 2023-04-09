@@ -36,12 +36,12 @@ const About = () => {
               <p className="mb-4 text-accent">Web Developer </p>
               <hr className="mb-8 opacity-5" />
               <p className="mb-8">
-                Hi there, I'm Sunil, a front-end developer who loves building
-                websites that look great and work well. I've been doing this for
-                more than a year now, and I specialize in using HTML, CSS,
-                JavaScript and React to create responsive, mobile-friendly
-                interfaces. When I'm not coding, I enjoy practicing meditation
-                and exploring the local art scene".
+                "Hello there, I'm Sunil, a front-end developer who enjoys
+                creating visually appealing and functional websites. I've been
+                doing this for more than a year, and I specialise in using HTML,
+                CSS, JavaScript, and React to create responsive, mobile-friendly
+                interfaces. When I'm not coding, I like to meditate and explore
+                the local art scene."
               </p>
             </div>
             <button
