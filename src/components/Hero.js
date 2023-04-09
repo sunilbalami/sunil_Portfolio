@@ -31,8 +31,8 @@ const Hero = () => {
               I'm Front-End Developer
             </h1>
             <p className="pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left   ">
-              I'm Front end developer who writes and design clean, elegent and
-              efficint code.
+              I'm Front end developer who writes and design clean, elegant and
+              efficient code.
             </p>
 
             <button className="btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all">
